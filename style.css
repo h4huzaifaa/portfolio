@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    font-family: "Nunito", sans-serif;
+}
+body{
+    background-color: rgba(228, 218, 218, 1);
+}
+.main{
+    display: flex;
+    width: 85%;
+    margin: auto;
+ 
+}
+.supra{
+    width: 35%;
+    margin: 20px 30px;
+    background-color: #fff;
+}
+
+.fa{
+    font-size: 17px;
+    color: #009688;
+    margin-left: 35px;
+}
+.supra h2{
+    display: inline;
+    font-size: 15px;
+    color:rgb(100, 100, 100);
+    margin-left: 20px;
+    font-weight: 400;
+
+}
+.supra h3{
+    font-weight: bolder;
+    display: inline;
+    font-size: 20px;
+    color:rgb(100, 100, 100);
+    margin-left: 40px
+}
+.line1 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long{
+    width: 95%;
+    margin: auto;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in{
+    background: #009688;
+    width: 90%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+.long .in p{
+    font-style: normal;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      font-size: 15px;  
+}
+/* new from 0 */
+
+.line2 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long2{
+    width: 95%;
+    margin: auto;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in2{
+    background: #009688;
+    width: 80%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+.long2 .in2 p{
+    font-style: normal;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      font-size: 15px;  
+}
+/* 3rd line from here */
+.line3 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long3{
+    width: 95%;
+    margin: auto;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in3{
+    background: #009688;
+    width: 75%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+.long3 .in3 p{
+    font-style: normal;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      font-size: 15px;  
+}
+/*  4th line from here */
+.line4 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long4{
+    width: 95%;
+    margin: auto;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in4{
+    background: #009688;
+    width: 50%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+.long4 .in4 p{
+    font-style: normal;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      font-size: 15px; 
+}
+/* 5th line start here */
+.line5 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long5{
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in5{
+    background: #009688;
+    width: 100%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+/* 6th line start here */
+.line6 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long6{
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in6{
+    background: #009688;
+    width: 50%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+/* 7th line start here */
+.line7 h2{
+    font-size: 35px;
+    color:rgb(100, 100, 100);
+    margin-left: 350px;
+    font-weight: 400;
+
+}
+.long7{
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #f5eeee;
+    border-radius: 20px;
+    height: 20px;
+}
+.in7{
+    background: #009688;
+    width: 25%;
+    border-radius: 20px;
+    height: 20px;
+  
+}
+/* line works end here */
+
+.father{
+    width: 65%;
+
+    margin: 20px 30px;
+}
+.inner{
+
+    background: white;
+}
+.child img{
+width: 100%;
+}
+.briefcase{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+.fulin{
+    display: flex;
+    margin-top: 8px;
+}
+.two h1{
+    margin-left: 25px;
+    color:rgb(100, 100, 100);
+}
+.first{
+    font-weight: bold;
+    font-size: 15px;
+    color:rgb(100, 100, 100);
+    margin-left: 30px;
+}
+.infa{
+    display: flex;
+}
+.fa-calendar{
+    margin-top: 20px;
+}
+.incha h3{
+    margin-left: 20px;
+}
+.incha h3 span{
+    background: #009688;
+    border-radius: 3px;
+    color: white;
+    padding: 2px 7px; 
+    font-size: 15px;
+    font-weight: lighter;
+
+}
+.incha p{
+    color: black;
+
+}
+.child-2{
+    margin-top: 40px;
+}
+.last{
+    background-color: #009688;
+}
+.last p , .logos .fa{
+    text-align: center;
+}
+.logos{
+    display: flex;
+}
+.logos .fa{
+    color: black;
+}
+.logos{
+    
+    margin-left: 625px;
+}
+@media only screen and (max-width: 600px) {
+.main{
+    display: block;
+
+}
+    }
